@@ -11,10 +11,10 @@
 * Mixture(혼합) + Experts(전문가)
 ## 연관 토픽
 - [[LLM]] - 대규모 언어 모델
-- [[트랜스포머(Transformer)]] - 기반 아키텍처
+- [[1. ITPE/0. Sub-Note/4. AI/트랜스포머(Transformer)]] - 기반 아키텍처
 - [[COT(Chain of Thought)]] - 추론 기법
 - [[RIG(Retrieval Interleaved Generation)]]
-* [[RAG(Retrieval Augmented Generation)]]
+* [[1. ITPE/0. Sub-Note/4. AI/RAG(Retrieval Augmented Generation)]]
 * [[MCP(Model Context Protocol)]]
 ## 구조
 ```

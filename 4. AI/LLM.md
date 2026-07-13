@@ -40,6 +40,6 @@ Pre-training   Supervised         Human      Deployment
 - ==COT==: 단계별 추론
 ## 연관 토픽
 - [[sLLM]] - 경량화 언어모델
-- [[트랜스포머(Transformer)]] - 기반 아키텍처
+- [[1. ITPE/0. Sub-Note/4. AI/트랜스포머(Transformer)]] - 기반 아키텍처
 - [[RAG(Retrieval Augmented Generation)/검색 증강 생성 AI]] - 검색 증강
 - [[환각 현상(Hallucination)]] - LLM 한계

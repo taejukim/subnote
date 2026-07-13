@@ -27,8 +27,8 @@ eXtream Programming
                                                        |
                                               [TDD / Pair / CI]
                                                        |
-                                            [Small Release] -> [Spike] 
-                                                              ProtoType
+                                        [Small Release] -> [Spike] 
+                                                          ProtoType
 ```
 ## 연관 토픽
 - [[Agile 프로세스 선언문 4개문장]] - 애자일 선언

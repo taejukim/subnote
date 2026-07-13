@@ -44,6 +44,6 @@
 ```
 ## 연관 토픽
 - [[가트너 전략기술]] - 가트너 2026 10대 전략기술
-- [[Smart Car(자율주행)]] - AI 기반 자율주행
+- [[Smart car]] - AI 기반 자율주행
 - [[디지털 트윈(Digital Twin)]] - 물리-가상 연동
 - [[CPS(Cyber-Physical System)]] - 사이버물리시스템

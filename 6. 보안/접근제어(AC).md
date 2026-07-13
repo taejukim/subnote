@@ -33,7 +33,7 @@
 | 모델  | DAC(Discretionary Access Control)    | 임의적 접근제어, 소유자 권한 부여  |
 | 모델  | RBAC(Role Based Access Control)      | 역할 기반 접근제어, 직무 역할 기반 |
 | 모델  | ABAC(Attribute Based Access Control) | 속성 기반 접근제어, 동적 정책    |
-| 구현  | ACL(Acess Control List)              | 접근 제어 목록, 객체 중심      |
+| 구현  | ACL(Access Control List)             | 접근 제어 목록, 객체 중심      |
 | 구현  | CL(Capability List)                  | 능력 목록, 주체 중심         |
 
 ## 구성도

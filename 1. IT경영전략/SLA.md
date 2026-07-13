@@ -24,13 +24,13 @@ IT 서비스 품질 수준을 규정하는 상호 합의 계약서, SLA
 ## 구성도 요소
 ```
 [1. 서비스 정의] ─────▶ [2. 협상 및 체결] ─────▶ [3. 성과 측정]
- (Service Define)       (Negotiation)        (Measurement)
-        │                     │                    │
-        ▼                     ▼                    ▼
+ (Service Define)       (Negotiation)           (Measurement)
+        │                     │                      │
+        ▼                     ▼                      ▼
  [5. 서비스 개선] ◀───── [4. 보고 및 리뷰] ◀────┬──────────────┐
- (Improvement)           (Reporting)         │   SLA 위반 시   │
-                                             │  Penalty 적용  │
-                                             └──────────────┘
+ (Improvement)           (Reporting)            │ SLA 위반 시  │
+                                           │ Penalty 적용 │
+                                           └──────────────┘
 ```
 ## 연관 토픽
 - [[ITSM]] - IT 서비스 관리

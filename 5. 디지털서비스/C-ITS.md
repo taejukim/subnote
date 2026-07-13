@@ -5,7 +5,7 @@
 - 양방향 오픈 플랫폼 기반으로 차량·인프라·보행자 간 실시간 정보를 교환하여 서비스를 제공하는 협력형 ITS(Cooperative-Intelligent Transport Systems)
 - 5G-V2X 기반으로 차량과 모든 객체 간 양방향 통신을 통해 안전운전 및 자율주행을 지원하는 차세대 교통 체계
 ## 키워드
-* V2X, V2V, V2I, V2P, V2C, IVN, 5G-V2X, Seamless, 상황능동형, WAVE, DSRC
+* V2X, V2V, V2I, V2P, V2C, IVN, 5G-V2X, Seamless, 상황능동형, WAVE(빠짐), DSRC
 ## 암기법
 * V2(CIVP) IVN (V2C, V2I, V2V, V2P, IVN) - 5대 통신 유형
 ## 특징
@@ -49,7 +49,7 @@
   └─ 작업구간 경고
 ```
 ## 연관 토픽
-- [[Smart Car(자율주행)]] - 자율주행 차량
+- [[Smart car]] - 자율주행 차량
 - [[5G]] - V2X 통신 인프라
 - [[IoT]] - 사물 통신
 - [[디지털 트윈(Digital Twin)]] - 교통 시뮬레이션

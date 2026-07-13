@@ -100,7 +100,7 @@
 └─────────────────────────────────────────────────────────────┘
 ```
 ## 연관 토픽
-- [[NoSQL(CAP 이론,BASE 속성)]] - NewSQL이 해결하려는 NoSQL 한계
-- [[NoSQL 품질속성 PACELC]] - NewSQL의 PC/EC 지향
+- [[CAP 이론,BASE 속성]] - NewSQL이 해결하려는 NoSQL 한계
+- [[PACELC]] - NewSQL의 PC/EC 지향
 - [[분산 데이터베이스]] - NewSQL의 기반 아키텍처
 - [[ACID]] - NewSQL이 보장하는 트랜잭션 속성

@@ -1,4 +1,4 @@
-#IT경영전략 #논리적사고 #필수 #IT경영전략/경영전략/분석_기법
+#정보관리기술사 #IT경영전략 #논리적사고 #필수 #IT경영전략/경영전략/분석_기법
 
 ## 정의
 Mutually Exclusive, Collectively Exhaustive

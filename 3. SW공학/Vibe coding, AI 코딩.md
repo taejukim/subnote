@@ -28,8 +28,7 @@ AI 기반 자동 코드 생성, AI 코딩
 | MCP                 | AI와 타 도구 연동           |
 | LSP                 | 고품질 코드 분석 및 수행        |
 | Agent               | Opencode, Claude Code |
-|                     |                       |
-|                     |                       |
+
 ## 필수 기반 지식
 - Git/GitHub, IaC, CI/CD, 컨테이너
 ## 절차

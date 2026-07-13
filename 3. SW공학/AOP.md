@@ -19,7 +19,7 @@ AOP(Aspect-Oriented Programming)
 - Advice:  횡단관심사 구현부
 - Crosscutting Concern: 공통기능(보안, 인증)
 ## 구성도
-![[Pasted image 20260122001832.png]]
+![[Pasted image 20260122001832.png|500]]
 ## 연관 토픽
 - [[객체지향 프로그래밍]] - 객체지향
 - [[모듈화]] - 모듈화

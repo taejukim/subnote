@@ -1,4 +1,4 @@
-#IT경영전략 #경영전략 #IT경영전략/경영전략/분석_기법
+#정보관리기술사 #IT경영전략 #경영전략 #IT경영전략/경영전략/분석_기법
 
 ## 정의
 Strength, Weakness, Opportunity, Threat

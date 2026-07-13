@@ -11,7 +11,7 @@ Long Short-Term Memory
 * LSTM 게이트: ==포인아== (Forget, Input, Output)
 ## 연관 토픽
 - [[RNN]] - 기본 순환 신경망
-- [[트랜스포머(Transformer)]] - 어텐션 기반 모델
+- [[1. ITPE/0. Sub-Note/4. AI/트랜스포머(Transformer)]] - 어텐션 기반 모델
 - [[자연어 처리(NLP)]] - 언어 처리
 ## 게이트 구조
 ```

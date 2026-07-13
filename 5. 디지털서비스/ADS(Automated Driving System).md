@@ -54,6 +54,6 @@
 ```
 ## 연관 토픽
 - [[ADAS(Advanced Driver Assistance System)]] - 첨단 운전자 보조 시스템
-- [[Smart Car(자율주행)]] - 자율주행 레벨 체계
+- [[Smart car]] - 자율주행 레벨 체계
 - [[ISO 26262]] - 차량 기능안전 표준
 - [[ASIL]] - 자동차 안전 무결성 등급

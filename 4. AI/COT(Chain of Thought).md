@@ -11,7 +11,7 @@
 * "Let's think step by step"
 ## 연관 토픽
 - [[LLM]] - 대규모 언어 모델
-- [[RAG(Retrieval Augmented Generation)]] - 검색 증강 생성
+- [[1. ITPE/0. Sub-Note/4. AI/RAG(Retrieval Augmented Generation)]] - 검색 증강 생성
 - [[MoE(Mixture of Experts)]] - 전문가 혼합
 ## 동작 원리
 ```

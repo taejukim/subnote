@@ -17,7 +17,7 @@
   - ==군집(Clustering): K-Means, SOM (무감독 학습)==
   - ==연관(Association): 장바구니 분석(지지도, 신뢰도, 향상도)==
   - ==연속성(Sequence): 시계열 분석, 패턴 분석==
-- 평가 지표: 정밀도(Precision), 재현율(Recall), F1-Score, 오분류표(Confusion Matrix)
+- 평가 지표: 정밀도(Precision), 재현율(Recall), F1-Score, 혼동행렬(Confusion Matrix)
 ## 구성도
 ![[Pasted image 20260121224018.png]]
 ![[Pasted image 20260121224027.png]]

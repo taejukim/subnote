@@ -10,7 +10,7 @@ AI가 사실이 아닌 정보를 생성하는 현상, 환각
 * 환각 = AI가 "보지 못한 것을 본다"
 * 해결: ==RAG로 사실 검증==
 ## 연관 토픽
-- [[RAG(Retrieval Augmented Generation)]] - 검색 증강 생성
+- [[1. ITPE/0. Sub-Note/4. AI/RAG(Retrieval Augmented Generation)]] - 검색 증강 생성
 - [[LLM]] - 대규모 언어 모델
 - [[인공지능 신뢰성]] - AI 신뢰성
 ## 유형

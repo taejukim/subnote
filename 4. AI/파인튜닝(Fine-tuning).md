@@ -23,7 +23,7 @@
 ## 연관 토픽
 - [[인공지능 파운데이션 모델]] - 기반 모델
 - [[LLM]] - 대규모 언어 모델
-- [[RAG(Retrieval Augmented Generation)]] - 검색 증강
+- [[1. ITPE/0. Sub-Note/4. AI/RAG(Retrieval Augmented Generation)]] - 검색 증강
 ## 파인튜닝 유형
 | 유형 | 설명 | 특징 |
 |------|------|------|

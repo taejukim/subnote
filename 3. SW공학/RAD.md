@@ -18,7 +18,7 @@ Rapid Application Development
 | Construction | Construction               | 개발 - 실제 시스템 구축                       |
 | Cutover      | Cutover                    | 전환 - 테스트, 인수, 운영 전환                  |
 ## 구성도
-![[Pasted image 20260122002207.png]]
+![[Pasted image 20260122002207.png|500]]
 ## 연관 토픽
 - [[폭포수 모델]] - 전통적 모델
 - [[프로토타이핑 모델]] - 프로토타입 기법
