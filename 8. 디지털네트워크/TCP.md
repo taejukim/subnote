@@ -1,4 +1,4 @@
-#디지털네트워크 #TCP #전송계층 #필수 #디지털네트워크/TCP/UDP
+ #디지털네트워크 #TCP #전송계층 #필수 #디지털네트워크/TCP/UDP
 ## 정의
 연결지향 신뢰성 전송 프로토콜, TCP
 - Transmission Control Protocol, OSI 4계층에서 동작하는 연결지향형 프로토콜
@@ -27,7 +27,7 @@
 | 순서 보장 | 순서대로 전달 | Sequence Number |
 | 흐름 제어 | 송수신 속도 조절 | 슬라이딩 윈도우 |
 | 혼잡 제어 | 네트워크 혼잡 방지 | Slow Start, AIMD |
-## 구성도
+ ## 구성도
 ```
 [3-Way Handshake - 연결 설정]
   Client                           Server
