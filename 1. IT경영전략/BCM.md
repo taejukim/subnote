@@ -16,7 +16,7 @@ Business Continuity Management
 - 이해관계자의 신뢰 유지 및 기업 이미지 보호
 - 법적 규제 및 컴플라이언스 대응 역량 강화
 ## 구성도 요소
-![[Pasted image 20260121224726.png|400px]]
+![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260121224726.png|400px]]
 ## 연관 토픽
 - [[BIA]] - 업무영향분석
 - [[DRP]] - 재해복구계획

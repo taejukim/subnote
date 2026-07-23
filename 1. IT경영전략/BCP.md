@@ -6,7 +6,7 @@ Business Continuity Planning
 ## 키워드
 - 무중단, BIA, [[DRS]]
 ## 개념도
-![[Pasted image 20260331000457.png|700]]
+![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260331000457.png|700]]
 
 | 구분                                    | 대상             | 산출물        |
 | ------------------------------------- | -------------- | ---------- |

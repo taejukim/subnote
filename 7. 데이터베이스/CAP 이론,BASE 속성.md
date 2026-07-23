@@ -13,7 +13,7 @@
 * "BASE" - Basically Available/Soft State/Eventually Consistent (기부최)
 * "산이선" - 분산 시스템은 2가지만 선택
 ## 구성요소/특징/유형
-![[Pasted image 20260401000109.png|700]]
+![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260401000109.png|700]]
 ### CAP 이론 구성요소
 | 요소 | 설명 | 특징 |
 |------|------|------|

@@ -6,7 +6,7 @@ Domain name System
 - Recursive, Iterative
 
 ## 동작 원리 개념도
-![[Pasted image 20260325233238.png|600]]
+![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260325233238.png|600]]
 
 ## 동작원리 설명
 | **단계** | **설명**                                                               |

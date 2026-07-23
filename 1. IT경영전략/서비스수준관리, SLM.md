@@ -10,7 +10,7 @@ Service Level Management
 		- 서비스카탈로그, SLA, OLA, Service Quality Plan, Service Report SLM 엔진
 
 ## 개념도
-![[Pasted image 20260331000129.png|500]]
+![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260331000129.png|500]]
 ## 측정지표
 - 하드웨어 : 서비스 가동률, 동일장애발생률
 - 소프트웨어 : 장애 및 오류건수, SR적기 처리율

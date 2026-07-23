@@ -9,7 +9,7 @@
 * 혼잡제어 4단계: 슬혼빠빠(Slow Start, 혼잡회피, 빠른재전송, 빠른회복)
 * AIMD: 에이아이엠디(Additive Increase, Multiplicative Decrease)
 ## 주요 알고리즘
-![[Pasted image 20260325230942.png|500]]
+![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260325230942.png|500]]
 
 | 알고리즘                 | 설명                 | 동작                                 |
 | -------------------- | ------------------ | ---------------------------------- |
@@ -20,9 +20,9 @@
 ## TCP 혼잡제어 버전
 | 버전          |                                           | 특징        | 알고리즘                            |
 | ----------- | ----------------------------------------- | --------- | ------------------------------- |
-| TCP Tahoe   | ![[Pasted image 20260325231006.png\|300]] | 초기 버전     | Slow Start, CA, Fast Retransmit |
-| TCP Reno    | ![[Pasted image 20260325231022.png\|300]] | 빠른 회복 추가  | + Fast Recovery                 |
-| TCP NewReno | ![[Pasted image 20260325231036.png\|300]] | 부분 ACK 처리 | Reno 개선                         |
+| TCP Tahoe   | ![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260325231006.png\|300]] | 초기 버전     | Slow Start, CA, Fast Retransmit |
+| TCP Reno    | ![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260325231022.png\|300]] | 빠른 회복 추가  | + Fast Recovery                 |
+| TCP NewReno | ![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260325231036.png\|300]] | 부분 ACK 처리 | Reno 개선                         |
 | TCP CUBIC   |                                           | 리눅스 기본    | 3차 함수 기반 증가                     |
 | TCP BBR     |                                           | 구글 개발     | 대역폭 기반 제어                       |
 ## 구성도

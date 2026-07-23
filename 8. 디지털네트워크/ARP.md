@@ -7,7 +7,7 @@ Address Resolution Protocol
 
 ## 동작 원리
 - MAC Address 요청
-![[Pasted image 20260325235857.png|500]]
+![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260325235857.png|500]]
 1. 호스트A는 호스트D의 IP를 인지한 상태에서 호스트D와의 통신을 위해 D의MAC 주소 획득 필요
 2. 호스트A는 ARP Request 패킷을 생성(Source IP와 MAC은 자신의 주소로, Destination IP는 호스트D의 IP로 Destination MAC은 FF:FF:FF:FF:FF:FF로 채워 넣음)
 3. 호스트A는 생성된 ARP 패킷을 네트워크로 브로드 캐스트

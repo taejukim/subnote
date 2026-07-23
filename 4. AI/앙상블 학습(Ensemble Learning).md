@@ -9,7 +9,7 @@
 - **보팅 방식:**
     - **하드 보팅(Hard Voting):** 다수 분류기의 예측 결과 중 다득표 결과 선택
     - **소프트 보팅(Soft Voting):** 분류기들의 결정 확률을 평균 내어 가장 높은 확률 선택
-![[Pasted image 20260320222729.png|200]]
+![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260320222729.png|200]]
 
 ## 부스팅(Boosting) 정의/개념
 **데이터 샘플링(Bootstrap)**을 통해 모델을 학습시키고 결과를 집계하는 방식입니다.
@@ -17,7 +17,7 @@
 - **데이터 형태에 따른 결정:**
     - **Categorical (범주형):** 투표(Voting) 방식으로 결과 결정
     - **Continuous (연속형):** 평균(Average) 방식으로 결과 결정
- ![[Pasted image 20260320222914.png|300]]
+ ![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260320222914.png|300]]
 ## 배깅(Bagging) 정의/개념
 여러 개의 분류기를 **순차적으로 학습**시켜 **강한 분류기**를 만드는 방법입니다.
 - **특징:** 앞선 모델의 **오류를 줄이는 데 초점**을 두며, 다음 분류기에 **가중치(Weight)**를 부여
@@ -27,7 +27,7 @@
     - **XGBoost:** Extreme Gradient Boosting
     - **LightGBM:** Light Gradient Boosting Machine
     - **CatBoost:** Category Boosting
-![[Pasted image 20260320222940.png|300]]
+![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260320222940.png|300]]
 ## 스태킹(Stacking) 정의/개념
 **Cross Validation**을 기반으로 개별 모델이 예측한 데이터를 **meta dataset**으로 생성하여, 최종 모델인 **Meta Learner**에서 다시 학습하는 방식입니다.
 - **프로세스:**
@@ -35,4 +35,4 @@
     2. 각 모델의 예측 결과를 모아 새로운 데이터 셋(New Training Set) 생성
     3. 최종 메타 모델(Meta Model)이 해당 데이터를 학습
     4. 최종 예측(Final Predictions) 도출
-![[Pasted image 20260320222957.png|500]]
+![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260320222957.png|500]]

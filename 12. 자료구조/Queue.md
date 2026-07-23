@@ -8,7 +8,7 @@
 - 선순링덱
 	- 선형큐, 슌환큐, 링크드리스트큐, 덱
 ## 개념도 및 구성요소
-![[Pasted image 20260323233342.png|500]]
+![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260323233342.png|500]]
 - Front : 줄의 맨 앞을 전단
 - Rear : 맨 뒤를 후단
 - Enqueue : 후단에 데이터를 삽입하는 작업
@@ -20,7 +20,7 @@
 
 | **유형**                     | 개념도                                        | **설명**                                                 |
 | -------------------------- | ------------------------------------------ | ------------------------------------------------------ |
-| **선형 큐**                   | ![[Pasted image 20260323233748.png\|300]]  | - 배열을 선형으로 사용하여 큐를 구현                                  |
-| **순환 큐 (원형 큐)**            | ![[Pasted image 20260323233822.png\|300]]  | - 배열의 끝과 시작이 이어진 것처럼(논리적으로 원형) 전단(Front)과 후단(Rear)을 관리 |
-| **LinkedList 큐**           | ![[Pasted image 20260323233835.png\|300]]. | - LinkedList로 구현한 큐로, 동적인 크기 조절이 용이                    |
-| **덱 (Double-ended Queue)** | ![[Pasted image 20260323233850.png\|300]]  | - 큐의 전단(Front)과 후단(Rear)에서 모두 삽입과 삭제가 가능한 큐            |
+| **선형 큐**                   | ![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260323233748.png\|300]]  | - 배열을 선형으로 사용하여 큐를 구현                                  |
+| **순환 큐 (원형 큐)**            | ![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260323233822.png\|300]]  | - 배열의 끝과 시작이 이어진 것처럼(논리적으로 원형) 전단(Front)과 후단(Rear)을 관리 |
+| **LinkedList 큐**           | ![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260323233835.png\|300]]. | - LinkedList로 구현한 큐로, 동적인 크기 조절이 용이                    |
+| **덱 (Double-ended Queue)** | ![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260323233850.png\|300]]  | - 큐의 전단(Front)과 후단(Rear)에서 모두 삽입과 삭제가 가능한 큐            |

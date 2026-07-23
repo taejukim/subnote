@@ -29,4 +29,4 @@
 | 동기 | ─▶ | 응답 대기 |
 | 비동기 | ─> | 응답 미대기 |
 | 자기호출 | ↺ | 자신 호출 |
-![[Pasted image 20260129231909.png|500]]
+![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260129231909.png|500]]

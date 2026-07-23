@@ -47,7 +47,7 @@ Stream2 ─┤      ├─ 손실    Stream2 ───────────�
 Stream3 ─┘      └─ 전체대기 Stream3 ──X(손실)──▶
                            (다른 스트림 영향 없음)
 ```
-![[Pasted image 20260325230558.png|500]]
+![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260325230558.png|500]]
 ## HOL(Head Of Line) 블로킹
 - 패킷을 대기 행렬에 큐잉하여 FIFO 처리함 (대기열의 머리에 있는 패킷은 대기열의 끝에 있는 패킷보다 먼저 전달
 - 순차 처리 제약으로 인해 머리가 처리되지 않으면 후속 패킷은 대기하게됨

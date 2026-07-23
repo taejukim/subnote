@@ -6,7 +6,7 @@ Extended Detection Response
 - EDR, SIEM, SOAR, End Point, 위협 탐지, 위협 대응, 보안 데이터 통합 분석
 
 ## XDR 동작 매커니즘
-![[Pasted image 20260410231855.png|500]]
+![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260410231855.png|500]]
 
 ## SIEM, SOAR, XDR 비교
 |**비교 항목**|**SIEM**|**SOAR**|**XDR**|

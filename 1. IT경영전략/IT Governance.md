@@ -13,7 +13,7 @@
 ## 구성도 요소
 * 표준 프레임워크: COBIT(Control Objectives for Information and Related Technology)
 * 프로세스(EDM): Evaluate(평가), Direct(지시), Monitor(모니터링)
-![[Pasted image 20260331001619.png|600]]
+![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260331001619.png|600]]
 ```
                   ┌──────────────────────────────┐
                   │      비즈니스 가치 창출      │

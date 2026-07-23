@@ -7,12 +7,12 @@ Reverse Address Resolution Protocol
 
 ## 동작원리
 - RARP Request
-	- ![[Pasted image 20260326000732.png|500]]
+	- ![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260326000732.png|500]]
 	- RARP의 주소를 모르기 때문에 RARP Request Broadcast
 	- RARP Request는 네트워크 모든 컴퓨터가 수신, RARP서버만 응답
 	- RARP Request is Broadcast
 - RARP Response
-	- ![[Pasted image 20260326000744.png]]
+	- ![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260326000744.png]]
 	- RARP 서버가 2대 이상 있을 경우, 두 대 모두 응답
 	- A는 Response가 2개 이상일 때는 첫번째 Response만 수신, 나머지 무시
 	- RARP Replay is Unicast

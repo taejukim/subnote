@@ -34,7 +34,7 @@
 | 알고리즘 | CKKS | 실수 연산 지원, 근사 계산 |
 | 알고리즘 | BFV/BGV | 정수 연산 지원 |
 ## 동형 암호 개념도와 사례
-![[Pasted image 20260408235551.png|600]]
+![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260408235551.png|600]]
 
 ## 구성도
 ```

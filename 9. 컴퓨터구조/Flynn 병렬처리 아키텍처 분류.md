@@ -6,7 +6,7 @@
 
 | 분류                                           | 구조도                                       | 설명                              |
 | -------------------------------------------- | ----------------------------------------- | ------------------------------- |
-| SISD<br>(Single Instruction Single Data)     | ![[Pasted image 20260531230011.png\|300]] | 단일 명령 단일 데이터 처리                 |
-| SIMD<br>(Single Instruction Multiple Data)   | ![[Pasted image 20260531230024.png\|300]] | 단일 명령 다중 데이터 처리                 |
-| MISD<br>(Multiple Instruction Single Data)   | ![[Pasted image 20260531230038.png\|300]] | 다중 입력 단일 데이터 처리<br>현신 존재 X, 이론만 |
-| MIMD<br>(Multiple Instruction Multiple Data) | ![[Pasted image 20260531230050.png\|300]] | 다중 입력, 다중 처리 장치                 |
+| SISD<br>(Single Instruction Single Data)     | ![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260531230011.png\|300]] | 단일 명령 단일 데이터 처리                 |
+| SIMD<br>(Single Instruction Multiple Data)   | ![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260531230024.png\|300]] | 단일 명령 다중 데이터 처리                 |
+| MISD<br>(Multiple Instruction Single Data)   | ![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260531230038.png\|300]] | 다중 입력 단일 데이터 처리<br>현신 존재 X, 이론만 |
+| MIMD<br>(Multiple Instruction Multiple Data) | ![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260531230050.png\|300]] | 다중 입력, 다중 처리 장치                 |

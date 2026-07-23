@@ -23,7 +23,7 @@
 | Use Case | ⬭ | 시스템 기능 단위 |
 | 시스템 경계 | □ | 시스템 범위 |
 ## 구성도
-![[Pasted image 20260130001210.png|500]]
+![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260130001210.png|500]]
 ## 연관 토픽
 - [[UML-Diagram 전체]] - UML 개요
 - [[활동 다이어그램]] - 프로세스 흐름

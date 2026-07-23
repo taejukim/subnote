@@ -7,7 +7,7 @@ Domain Name System Security Extension
 - DNSKEY, 파밍(Pharming), DNS 캐시 포이즈닝 공격, 공개키, 전자서명
 
 ## DNSSEC 작동 방식
-![[Pasted image 20260410000741.png|700]]
+![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260410000741.png|700]]
 1. A는 개인키, 공개키로 구성된 서명용 키를 생성하고 공개키는 공개하여 배포
 2. A는 B에게 송부할 원본 데이터에 서명하여 서명 데이터 생성
 3. A는 원본 데이터에 서명 데이터를 추가하여 인터넷을 통해 B에게 전송
@@ -23,4 +23,4 @@ Domain Name System Security Extension
 | 원본데이터              | 일반 DNS 레코드, NSEC/NSEC3, DS | 전달할 레코드 데이터                                 |
 | 서명데이터              | RRISG                      | RRISG에 서명 데이터를 포함하고 RRSIG은 서명 검증에 필요한 정보 포함 |
 ## DNSSEC 작동 방식
-![[Pasted image 20260410001145.png|700]]
+![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260410001145.png|700]]

@@ -7,7 +7,7 @@ Server Side Request Forgery
 - 서버측 요청 조작, 내부 네트워크 스캔, 원격 코드 실행, Non-Blind SSRD, Blind SSRF
 
 ## SSRF 공격 절차
-![[Pasted image 20260409003547.png|600]]
+![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260409003547.png|600]]
 
 | 절차             | 설명                                     |
 | -------------- | -------------------------------------- |

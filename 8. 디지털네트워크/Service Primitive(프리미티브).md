@@ -9,7 +9,7 @@
 * 프리미티브 4종: 리인레콘(Request, Indication, Response, Confirm)
 * 연결형 순서: 요지응확(요청→지시→응답→확인)
 ## 구성요소
-![[Pasted image 20260325230140.png|500]]
+![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260325230140.png|500]]
 
 | 구분         | 설명        | 방향         |
 | ---------- | --------- | ---------- |
@@ -73,7 +73,7 @@
 
 ## 표현 사례
 - TransPort 계층에서 접속을 요구하면서 착발신 주소를 알려주며 사용자 데이터를 송부
-![[Pasted image 20260325230209.png|500]]
+![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260325230209.png|500]]
 1. 서비스 제공 계층
 	1. L : Link layer
 	2. N : Network Layer

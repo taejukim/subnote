@@ -19,8 +19,8 @@
   - ==연속성(Sequence): 시계열 분석, 패턴 분석==
 - 평가 지표: 정밀도(Precision), 재현율(Recall), F1-Score, 혼동행렬(Confusion Matrix)
 ## 구성도
-![[Pasted image 20260121224018.png]]
-![[Pasted image 20260121224027.png]]
+![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260121224018.png]]
+![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260121224027.png]]
 ## 연관 토픽
 - [[신경망분석]] - 신경망 분석
 - [[AI 개발비 산정]] - AI 개발

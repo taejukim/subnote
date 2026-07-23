@@ -35,7 +35,7 @@
 | 코드오류     | Null Pointer 역참조 | Null 체크                   |
 | 캡슐화      | Public 필드 노출     | Private 사용, Getter/Setter |
 | API오용    | DNS Lookup 의존    | IP 주소 직접 사용               |
-![[Pasted image 20260409003350.png|900]]
+![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260409003350.png|900]]
 ## 구성도
 ```
 [SW개발보안 적용 단계]

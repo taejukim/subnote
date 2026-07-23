@@ -6,7 +6,7 @@
 - 개발과 운영에 보안 통합, CI/CD 구현 도구
 
 ## DevSecOps 개념도
-![[Pasted image 20260409235638.png|600]]
+![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260409235638.png|600]]
 
 ## DevSecOps 작동 방식
 

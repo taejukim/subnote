@@ -9,7 +9,7 @@
 	- 가신간디 /?
 
 ## 개념도
-![[Pasted image 20260320223828.png|600]]
+![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260320223828.png|600]]
 
 ## 생성방법
 

@@ -29,4 +29,4 @@
 | 클라우드 우선 적용 |                   |
 | 규모 적정성     |                   |
 ### ISP, ISMP 수립 제외 사업(수립의 실익이 낮을 경우)
-![[Pasted image 20260331222955.png|700]]
+![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260331222955.png|700]]

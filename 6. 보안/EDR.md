@@ -8,10 +8,10 @@ Endpoint Detection and Response
 - 침해지표(ICO, Indicator of Compromise)
 
 ## EDR 필요성
-![[Pasted image 20260410231418.png|600]]
+![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260410231418.png|600]]
 
 ## EDR Process Cycle
-![[Pasted image 20260410231441.png|600]]
+![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260410231441.png|600]]
 
 ## EDR Process
 1. Predict : 기본 보안 태세, 위협 예측, 위험 평가

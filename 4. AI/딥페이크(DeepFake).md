@@ -4,7 +4,7 @@
 ## 키워드
 - GAN, 이미지 합성, 역기능
 # 개념도
-![[Pasted image 20260320234023.png|600]]
+![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260320234023.png|600]]
 
 ## 탐지기술
 - 인공지능 기반 탐지

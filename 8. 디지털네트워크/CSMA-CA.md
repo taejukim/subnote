@@ -7,7 +7,7 @@ CSMA-CA(Carrier Sense Multiple Access/Collison Avoidance)
 - DIFS, RTS, SIFS, CTS, SIFS(NAV)
 
 ## 동작 원리
-![[Pasted image 20260325224054.png|500]]
+![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260325224054.png|500]]
 1. 채널 사용 여부 검사
 	1. RTS 프레임을 보내고 CTS응답 받기
 	2. CTS 응답이 없으면 반복
@@ -18,7 +18,7 @@ CSMA-CA(Carrier Sense Multiple Access/Collison Avoidance)
 5. ACK 메시지 수신 : ACK 메시지를 수신하여 프레임의 정상 전달 여부 확인
 
 ## IFS(Inter Frame Space)와 Contention Window
-![[Pasted image 20260325224315.png|500]]
+![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260325224315.png|500]]
 - IFS(Inter Frame Space) 
 	- 휴지 상태릐 채널이 발견되면 지국을 즉시 전송하지 않고 IFS라는 일정 시간을 기다림
 	- IFS 시간으로 인해 멀리 떨어진 지국이 보낸 신호의 앞부분이 도달할 수 있도록 여유를 둠

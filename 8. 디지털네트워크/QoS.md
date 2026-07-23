@@ -32,8 +32,8 @@ Quality of Service
 
 ## 보장기술
 - [[IntServ]] 
-	- ![[Pasted image 20260325235307.png|600]]
+	- ![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260325235307.png|600]]
 	- RSVP와 같은 자원 예약 신호제어용 프로토콜에 의해 요구되는 자원을 사전에 예약하며 망으로 유입되는 트래픽에 대하여 수락제어를 함으로 써 QoS를 제공하는 기술
 - [[DiffServ]]
-	- ![[Pasted image 20260325235322.png|600]]
+	- ![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260325235322.png|600]]
 	- 패킷 DS 필드에 DSCP를 마킹하여 서비스 클래스별 PHB(Per-Hop-Behavior) 우선순위 기반으로 QoS 제공하는 기술

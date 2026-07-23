@@ -14,7 +14,7 @@ Open Authorize 2.0
 	- Simple Web Token
 	- JSON Web Token
 ## Oauth 인증 절차
-![[Pasted image 20260410223407.png|500]]
+![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260410223407.png|500]]
 
 |구성요소|설명|
 |---|---|

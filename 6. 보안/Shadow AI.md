@@ -4,6 +4,6 @@
 - 비가시성, 권한 연계성, 초접근성
 
 ## 대응 방안
-![[Pasted image 20260627152927.png]]
+![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260627152927.png]]
 
-![[Pasted image 20260627152909.png]]
+![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260627152909.png]]

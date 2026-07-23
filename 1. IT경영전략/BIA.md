@@ -22,7 +22,7 @@ Business Impact Analysis
 | **3. 중요/대형**  | RTO=4H, RPO=12H | Hot Site    | 경영정보시스템       |
 | **4. 광범위/전파** | RTO=2H, RPO=2H  | Mirror Site | 온라인 쇼핑몰 홈페이지  |
 ## 절차
-![[Pasted image 20260331001142.png|700]]
+![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260331001142.png|700]]
 
 ## 지표
 | **지표**                                               | **설명**                                                                                     |

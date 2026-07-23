@@ -21,7 +21,7 @@ Disaster Recovery System
 ## 구성도 요소
 * 아키텍처: 데이터 복제 기술(Storage mirroring, Database replication) 중심
 * 관계: 거리와 대역폭에 따라 동기(Synchronous)/비동기(Asynchronous) 방식 선택
-![[Pasted image 20260331001513.png|600]]
+![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260331001513.png|600]]
 ```
       [ 주 센터 (Primary) ]                  [ DR 센터 (Secondary) ]
     ┌─────────────────────────┐            ┌──────────────────────────┐

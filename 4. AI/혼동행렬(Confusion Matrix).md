@@ -5,10 +5,10 @@
 * TP/FP/FN/TN
 * Precision, Accuracy, Recall, Specificity, FR Rate, F1 Score, Kappa
 ## 개념도
-![[Pasted image 20260320232615.png|600]]
+![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260320232615.png|600]]
 
 ## ROC Curve, AUC, PR Plot
-![[Pasted image 20260320232647.png|700]]
+![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260320232647.png|700]]
 - ROC커브는 이진 분류기의 성능을 표현하는 커드이고, 가능한 모든 Threshold에 대해 FRP과 TPR의 비율을 표현
 - PR Plot는 정밀도(Precision)과 재현율(Recall)의 관계를 나타내는 곡선
 

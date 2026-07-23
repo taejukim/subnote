@@ -8,7 +8,7 @@ Security Information Event Management
 - Cyber kill chain
 
 ## SIEM Architecture
-![[Pasted image 20260410224419.png|500]]
+![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260410224419.png|500]]
 ## SIEM 수집 로그 유형
 - 네트워크 장치 : 방화벽 로그, 침입 탐지/방지 시스템 로그, 웹 프록시 로그
 - 엔드포인트 : 바이러스 백신 로그, AmCache 로그, 레지스트리 로그

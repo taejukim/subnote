@@ -6,7 +6,7 @@ Dynamic Host Configuration Protocol
 - DISCOVER, OFFER, REQUSET, ACK, DHCP, Starvation
 
 ## DHCP IP 할당 과정
-![[Pasted image 20260326000946.png|500]]
+![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260326000946.png|500]]
 1. DISCOVER
 	1. 클라이언트가 Broadcast로 DHCP Discover 패킷 전송
 2. OFFER
@@ -20,7 +20,7 @@ Dynamic Host Configuration Protocol
 	2. 제안 IP 사용 최종 승인 및 할당 종료
 
 ## DHCP IP 갱신, 해제 과정
-![[Pasted image 20260326001301.png|500]]
+![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260326001301.png|500]]
 - 갱신 과정
 	- REQUEST
 		- 클라이언트가 유니캐스트로 IP 연장 의사 전달

@@ -59,7 +59,7 @@
      └───────────────┘
 ```
 
-![[Pasted image 20260130222032.png|800]]
+![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260130222032.png|800]]
 ## 연관 토픽
 - [[SW Architecture]] - 소프트웨어 아키텍처 기본 개념
 - [[SW Architecture 평가]] - 아키텍처 평가 방법론

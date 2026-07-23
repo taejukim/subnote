@@ -13,7 +13,7 @@ Linearly Independent Spanning Set
 - 핵중배: (LISS) 핵심만 추출, 중요성 위주, 배제(불필요 제거)
 ## 구성도 요소
 - MECE, LISS
-![[Pasted image 20260121221304.png]]
+![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260121221304.png]]
 ## 연관 토픽
 - [[SWOT분석]] - 전략 분석
 - [[신경망분석]] - 데이터 분석

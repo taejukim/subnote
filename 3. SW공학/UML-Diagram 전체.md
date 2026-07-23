@@ -19,7 +19,7 @@
 ## 구성요소
 ### 구조 다이어그램(Structure Diagram)
 - **Class Diagram(클래스 다이어그램): 클래스 구조와 관계**
-- ![[Pasted image 20260130225405.png|200]]
+- ![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260130225405.png|200]]
 - Object Diagram(객체 다이어그램): 특정 시점의 객체 인스턴스
 - Component Diagram(컴포넌트 다이어그램): 컴포넌트 간 의존관계
 - Deployment Diagram(배포 다이어그램): 물리적 배치 구조
@@ -27,16 +27,16 @@
 - **Composite Structure Diagram(복합 구조 다이어그램): 내부 구조**
 ### 행위 다이어그램(Behavior Diagram)
 - **Use Case Diagram(유스케이스 다이어그램): 시스템 기능과 액터**
-- ![[Pasted image 20260130225357.png|200]]
+- ![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260130225357.png|200]]
 - **Activity Diagram(활동 다이어그램): 업무 흐름과 제어 흐름**
-- ![[Pasted image 20260130225416.png|400]]
+- ![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260130225416.png|400]]
 - State Machine Diagram(상태 머신 다이어그램): 객체의 상태 전이
 - **Sequence Diagram(시퀀스 다이어그램): 시간 순서에 따른 상호작용**
 - **Communication Diagram(통신 다이어그램): 객체 간 메시지 교환**
 - **Timing Diagram(타이밍 다이어그램): 시간 제약이 있는 상호작용**
 - Interaction Overview Diagram(상호작용 개요): 상호작용 흐름
 - State Diagram(상태 다이어그램) : 객체 생명주기 동안 겪는 상태변화 표현
-- ![[Pasted image 20260130225530.png|400]]
+- ![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260130225530.png|400]]
 ## 구성도
 ```
 ┌─────────────────────────────────────────┐

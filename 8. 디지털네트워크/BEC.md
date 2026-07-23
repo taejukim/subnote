@@ -18,7 +18,7 @@
 | Go-Back-N | 오류 프레임부터 재전송 | 윈도우 기반 |
 | Selective Repeat | 오류 프레임만 재전송 | 효율적, 복잡 |
 ## 구성도
-![[Pasted image 20260325233931.png|500]]
+![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260325233931.png|500]]
 ```
 [ARQ 유형 비교]
 

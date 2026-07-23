@@ -3,12 +3,12 @@
 - 특정 취약점이 특정 제품이나, 컴포넌트에 영향 여부와 관련 정보를 기계가 읽을 수 있는 형태로 표현하는 표준 계열 프레임워크
 - SBOM의 보완 정보
  
-![[Pasted image 20260627152129.png]]
+![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260627152129.png]]
 
  상태 4가지 → 간글
   
 
-![[Pasted image 20260627152214.png]]
+![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260627152214.png]]
 
-![[Pasted image 20260627152451.png]]  
-![[Pasted image 20260627152340.png]]
+![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260627152451.png]]  
+![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260627152340.png]]

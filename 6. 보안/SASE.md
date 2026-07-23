@@ -7,7 +7,7 @@ Secure Access Service Edge
 - SD-WAN, 보안, Network as a Service, Network Security as a Service
 
 ## SASE 개념도
-![[Pasted image 20260410002445.png|500]]
+![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260410002445.png|500]]
 
 ## SASE 구성 요소
 

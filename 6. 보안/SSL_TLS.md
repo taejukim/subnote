@@ -37,7 +37,7 @@
 | 무결성 | HMAC | 메시지 인증 코드 |
 
 ## 구성도
-![[Pasted image 20260410001544.png|500]]
+![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260410001544.png|500]]
 ```
 [SSL/TLS 핸드쉐이크]
 

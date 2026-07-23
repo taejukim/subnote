@@ -34,9 +34,9 @@ Information System Master Plan
 	* 정보시스템 구축사업 이행방안 수립
 		* 계획수립, 분리발주평가, 예산수립, RFP작성, 업체선정 
 * 관계: [[ISP]](전사적 전략) → ISMP(특정 시스템 상세화) → 시스템 구축(SI)
-![[Pasted image 20260331223246.png|500]]
+![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260331223246.png|500]]
 ### ISP, EA/ITA, ISMP 비교 개념도
-![[Pasted image 20260331223315.png|5000]]
+![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260331223315.png|5000]]
 
 ### ISP, EA/ITA, ISMP 상세 비교
 | 구분 | ISP | EA/ITA | ISMP |

@@ -17,7 +17,7 @@ IT Service Management
 ## 구성도
 * 운영 구조: 서비스 요청(SR) → 서비스 데스크 → 프로세스 처리(장애/변경 등) → 피드백
 * 관계: ITIL을 프레임워크로 채택하고 ISO 20000 인증을 통해 수준 검증
-![[Pasted image 20260330235447.png|500]]
+![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260330235447.png|500]]
 ```
 [ITSM 지원 기술]
             (Cloud, 블록체인, 빅데이터, 가상화)

@@ -6,7 +6,7 @@ Virtual Private Network
 - 터널링, 암호화, 기밀성, 무결성, SSL VPN, IPSec VPN, MPLS VPN
 
 ## VPN 개념도
-![[Pasted image 20260410001718.png]]
+![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260410001718.png]]
 
 ## VPN 기술 요소
 - 터널링 : 패킷이 공중망을 통과할때, 가상 경로를 설정 해줌으로써 터널이 뚫린것 같은 통로를 제공하는 기술

@@ -7,7 +7,7 @@ Privacy-Enhancing Computation
 - 데이터 변환, 소프트웨어 Computation, 하드웨어 환경
 - 재현데이터, 동형 암호, 차분 프라이버시, 다자간 컴퓨팅 알고리즘, 영지식 증명, 연합학습, 기밀 컴퓨팅
 ## PEC 유형
-![[Pasted image 20260410233847.png|500]]
+![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260410233847.png|500]]
 
 ## PEC 유형 별 주요 기술
 |**영역**|**기능**|**주요 기술**|**설명**|

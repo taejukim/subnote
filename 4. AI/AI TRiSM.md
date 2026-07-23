@@ -11,7 +11,7 @@ AI Trust, Risk and Security Management
 - 구성요소
 	- 익모모응프(Explainablilty/Model Monitoring, ModelOps, AI Applicaiton Security,k Privacy)
 ## 개념도
-![[Pasted image 20260320234532.png|600]]
+![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260320234532.png|600]]
 
 ## 구성요소 4개
 | **구분**                              | **설명**                                          | **기술요소/도구**                 |

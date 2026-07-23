@@ -10,7 +10,7 @@ Secure Software Development Framework
 - 4. 취약점 대응(RV)
 
 ## SSDF 구성
-![[Pasted image 20260410000552.png|500]]
+![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260410000552.png|500]]
 
 ## SSDF의 단계
 

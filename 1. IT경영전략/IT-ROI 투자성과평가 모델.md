@@ -29,9 +29,9 @@ IT-ROI 투자성과평가 모델
 - **정량지표**: TCO, ROI, NPV, IRR, PP
 - **정성지표**: 가치사슬(Value Chain), IO(정보가치/실행/기술), IPM(포트폴리오 관리), IE(전략적 우선순위)
 ## 구성도
-![[Pasted image 20260331224231.png|500]]
+![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260331224231.png|500]]
 ### 투자성과평가 프레임워크 - 평추측분
-![[Pasted image 20260331224244.png|500]]
+![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260331224244.png|500]]
 ## 연관 토픽
 - [[BSC]] - 균형성과표
 - [[경제성 평가 기법]] - 경제성 분석

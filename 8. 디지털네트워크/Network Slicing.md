@@ -20,8 +20,8 @@
 | Core Slice      | 코어망 슬라이스                    | UPF/AMF 인스턴스     |
 | Transport Slice | 전송망 슬라이스                    | 백홀/프론트홀          |
 ## 구성도
-![[Pasted image 20260326002033.png|500]]
-![[Pasted image 20260326001918.png|500]]
+![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260326002033.png|500]]
+![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260326001918.png|500]]
 ```
 ┌─────────────────────────────────────────────────────────┐
 │              Network Slicing 아키텍처                   │

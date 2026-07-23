@@ -7,7 +7,7 @@ Security as a Service
 - CSP, SSP, Cloud 보안 서비스
 
 ## SECaaS 개념도
-![[Pasted image 20260410002726.png|500]]
+![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260410002726.png|500]]
 
 ## SECaaS 유형
 - CSP SECaaS : 기존 클라우드 서비스 제공자가 자신의 안전한 서비스 제공을 위한 보안서비스

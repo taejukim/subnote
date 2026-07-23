@@ -6,7 +6,7 @@
 - LLM, DevOps, 자동화, CI/CD
 
 ## 구성도
-![[Pasted image 20260320232117.png|500]]![[Pasted image 20260320232139.png|300]]
+![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260320232117.png|500]]![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260320232139.png|300]]
 
 ## LLMOps 단계별 구성요소
 | **구분**          | **구성 요소**                  |

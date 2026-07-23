@@ -38,7 +38,7 @@ $$K = g^{xy} \pmod p$$
 
 
 ## 구성도
-![[Pasted image 20260408234834.png|700]]
+![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260408234834.png|700]]
 ```
 [사전 준비: g, p 공유]
          │

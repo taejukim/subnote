@@ -10,7 +10,7 @@ Cloud Workload Protection Platform & Cloud Security Posture Managerment
 - 키워드 : 내부, 내부 실행 위협, 워크로드
 
 ## 가트너에서 제시한 클라우드 보안 서비스 커버리지
-![[Pasted image 20260410002142.png|500]]
+![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260410002142.png|500]]
 
 ## CSPM vs CWPP 비교
 

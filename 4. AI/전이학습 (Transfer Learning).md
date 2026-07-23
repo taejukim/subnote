@@ -12,7 +12,7 @@
 	- 적태도 레귀변자
 		- 적용범위, 과업(Task)전이, 도메인(Domain)전이, 데이터셋 Label 여부, 귀납, 변경, 자율
 ## 개념도
-![[Pasted image 20260320221002.png|500]]
+![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260320221002.png|500]]
 
 ## 주요학습 기법
  - FineTunied CNN

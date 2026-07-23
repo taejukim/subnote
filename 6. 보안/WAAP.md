@@ -8,7 +8,7 @@ Web Application and API Protection
 - DDoS, Bot 보호
 
 ## WAAP 아키텍처
-![[Pasted image 20260410230233.png|500]]
+![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260410230233.png|500]]
 
 ## WAAP 주요 기능
 | **주요기능**                                            | **방어 공격**                                                      |

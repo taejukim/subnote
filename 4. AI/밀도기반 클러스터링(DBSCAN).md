@@ -12,7 +12,7 @@
 	- 엡민 (Epslion 설정, minPts 설정)
 
 ## 개념도
-![[Pasted image 20260320222111.png|500]]
+![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260320222111.png|500]]
 ## 구성요소
 | **구성요소**         | **설명**                                                              |
 | ---------------- | ------------------------------------------------------------------- |
@@ -28,4 +28,4 @@
 | **Connected**    | - core point와 core point가 반경 내에 겹칠 경우 연결되어 있다고 보고 하나의 군집으로 정의       |
 | **Noise Point**  | - 어떤 점의 중심으로도 조건을 만족시키지 못하는 데이터                                     |
 ## K-means와 DBScan 결과 비교
-![[Pasted image 20260320222203.png|500]]
+![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260320222203.png|500]]
