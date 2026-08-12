@@ -1,13 +1,13 @@
 #정보관리기술사 #IT경영전략 #서비스수준관리SLM #IT경영전략/IT_거버넌스/서비스관리
 Service Level Management
 ## 정의
-
+사용자 관점에서 IT 서비스의 요구사항을 파악하고 서비스 수준을 개선하기 위한 관리방법
 ## 키워드
 
 ## 암기법
 - 구성요소
-	- 카스(에)오 플로(리)엔
-		- 서비스카탈로그, SLA, OLA, Service Quality Plan, Service Report SLM 엔진
+	- 카스오 플리엔
+		- 서비스카탈로그, SLA, OLA, Service Quality Plan, Service Report, SLM 엔진
 
 ## 개념도
 ![[1. ITPE/0. Sub-Note/99.attached_file/Pasted image 20260331000129.png|500]]
